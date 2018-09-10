@@ -1,0 +1,42 @@
+[Adblock Plus 2.0]
+! Checksum: foMhfPmFsDbKn4TyfqLcRA
+! Title :    BSTF (Babak's Strict Trackers Filterlist)
+! Expires:   5 days
+! Version:   107
+! Download:  https://cdn.rawgit.com/farrokhi/adblock-iran/master/additional-trackers.txt
+! Homepage:  https://github.com/farrokhi/adblock-iran
+! Support:   https://github.com/farrokhi/adblock-iran/issues 
+! License:   BSD Simplified
+!--------------------------------------------------------------------------
+/piwik.js
+||addtoany.com^$script
+||adform.net^
+||akairan.com/analytics.js
+||alexa.com^$script
+||alexametrics.com/atrk.gif
+||alexametrics.com^$script
+||analytics.aasaam.com^
+||app.najva.com^$script
+||cdn.onesignal.com^$script
+||cdn.sendpulse.com^
+||cloudfront.net/atrk.js
+||cloudfront.net/test.png
+||crazyegg.com^$script
+||crsspxl.com^
+||doubleclick.net^
+||getclicky.com^$script
+||google-analytics.com^
+||googletagmanager.com^
+||gravatar.com^$script
+||heapanalytics.com^$script
+||histats.com^$script
+||hitplus.ir^$script
+||hotjar.com^$subdocument,script
+||lasttours.net/atrk.js
+||persianstat.com^$script
+||pusher.com^$websocket,script
+||rating-widget.com^$stylesheet,script
+||scarabresearch.com^$script
+||statcounter.com^$script
+||stats.wp.com^$script
+||webgozar.ir^
